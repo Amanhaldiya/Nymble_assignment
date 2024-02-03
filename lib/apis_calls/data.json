@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Buddy",
+      "price": 100,
+      "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQvOLL9MUidlzpbho3WGsZ6sIq0XwuBPmd6-uekJ-O5hFhj0sVv8XL-OhJ8GnLV-1tq",
+      "age": 2
+    },
+    {
+      "name": "Molly",
+      "age": 3,
+      "price": 120,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJFfm6kr6pynKVQz_COK_v-iVMbEkDi3mJhITGflJhEh8WEV25",
+      "adopted": false
+    },
+    {
+      "name": "Charlie",
+      "age": 1,
+      "price": 80,
+      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTYxJslfOtcj3b_f25k9irZql8p2jedYwzjqyP0eEIUClTxHEuDGUJyDtY2KVPT1wGb",
+      "adopted": false
+    },
+    {
+      "name": "Luna",
+      "age": 2,
+      "price": 150,
+      "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSp0pVNO2bfq0njaqvO7bmTZAWyJ-gqmvBfahW00-ZjOMX_BsM3--Bee9P8jUJUvuFG",
+      "adopted": false
+    },
+    {
+      "name": "Max",
+      "age": 4,
+      "price": 110,
+      "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcS3MnSOybMLJlY92J7wuAp5wP-jqdafpOaUY08Nxvwcgjf46O0em3PDgtunwkeSMsO9",
+      "adopted": false
+    },
+    {
+      "name": "Bella",
+      "age": 2,
+      "price": 130,
+      "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcStqL0ObTqJn3AQgckxyXkpvOYb-Ql4O9QTbXiNkShmURw3BYjlVu4k754D_mCodQ_N",
+      "adopted": false
+    },
+    {
+      "name": "Cooper",
+      "age": 3,
+      "price": 90,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Labrador_Retriever_portrait.jpg/1200px-Labrador_Retriever_portrait.jpg",
+      "adopted": false
+    },
+    {
+      "name": "Daisy",
+      "age": 1,
+      "price": 100,
+      "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTBI6YWrsgd1hW1FPNYQcmYHVanQuzfkr1nkWKT1Vlyk6IUjBjiKgMhmrcGYf5AcZui",
+      "adopted": false
+    },
+    {
+      "name": "Rocky",
+      "age": 2,
+      "price": 120,
+      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQWEFUcdSYFc6KcZF-D93WeFWbuTHOQRr3sTcDtI9WShw2i7jAU9ecG449jRKm4T53o",
+      "adopted": false
+    },
+    {
+      "name": "Lucy",
+      "age": 3,
+      "price": 110,
+      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTafiJBPoOQVBrQO-KKWv_m2N4cg_GB1bjtBmJfxE2XTWy3prHQ0EnFKkKDBKtzulP6",
+      "adopted": false
+    },
+    {
+      "name": "Teddy",
+      "age": 1,
+      "price": 140,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg",
+      "adopted": false
+    }
+  ]
+  
